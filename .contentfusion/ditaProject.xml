@@ -3,4 +3,13 @@
     <context id="kSURYkQdZCHxaAS" name="UserManul">
         <input href="../userguide.ditamap"/>
     </context>
+    <publication id="pdf" transtype="pdf-css-html5"/>
+    <deliverable id="d-ug-1781684530591" name="ug">
+        <context idref="kSURYkQdZCHxaAS"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf">
+            <param href="cf://templates/Oxygen" name="pdf.publishing.template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
