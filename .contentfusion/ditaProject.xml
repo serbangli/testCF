@@ -4,4 +4,13 @@
         <input href="../userguide.ditamap"/>
     </context>
     <publication id="pdf" transtype="pdf-css-html5"/>
+    <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="d-SM_test-1782464152105" name="SM test">
+        <context idref="ZtMEcIWHCFozXQb"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param href="cf://templates/Oxygen" name="webhelp.publishing.template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
