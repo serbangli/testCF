@@ -3,4 +3,13 @@
     <context id="GXfhPYbvYocrqQp" name="indexSub">
         <input href="../index.ditamap"/>
     </context>
+    <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="d-submodule-1782710164624" name="submodule">
+        <context idref="GXfhPYbvYocrqQp"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param href="cf://templates/Oxygen" name="webhelp.publishing.template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
