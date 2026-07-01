@@ -3,5 +3,5 @@
 <map>
     <title>index</title>
     <topicref href="Concept.dita"/>
-    <topicref href="submodule/Concept.dita"/>
+    <topicref href="submodule/indexSM.ditamap"/>
 </map>
