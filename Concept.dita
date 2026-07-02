@@ -10,16 +10,6 @@
 <p>2. GIT Alt paragraf - schimbat</p>
 <p>CF added si pentru update si switch branch din afaratgit </p>
 <p>2.3..1 HIT: Reusing existing clone (needs update) for
-            repository=http://documents-storage:8080/git-project
-            /ch8s7d02j0fa91pmvbpkarae1pfpga5qlvvlrcajv7gsapnc.git, branch=main,
-            projectId=ch8s7d02j0fa91pmvbpkarae1pfpga5qlvvlrcajv7gsapnc ^{[36mtask-executor-1 |
-            ^{[0m2026-07-02 08:24:23.340 INFO 14 --- [ pool-4-thread-2]
-            c.o.p.executor.git.GitRepositoryHandler : Starting to update repository for
-            repositoryURL=http://documents-storage:8080/git-project/ch8s7d02j0fa91pmvbpkarae1pfpga
-            5qlvvlrcajv7gsapnc.git ^{[36mtask-executor-1 | ^{[0m2026-07-02 08:24:24.169 INFO 14 ---
-            [ pool-4-thread-2] c.o.p.executor.git.GitRepositoryHandler : Repository update finished
-            successfully ^{[36mtask-executor-1 | ^{[0m2026-07-02 08:24:24.173 INFO 14 --- [
-            pool-4-thread-2] c.o.p.e.g.c.DiskSpaceReservationManager : [Disk] Released disk space
-            reservation.</p>
+            repository=http://documents-storage:8080/git-</p>
     </conbody>
 </concept>
