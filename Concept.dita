@@ -11,5 +11,6 @@
 <p>CF added si pentru update si switch branch din afaratgit </p>
 <p>2.3..1 HIT: Reusing existing clone (needs update) for
             repository=http://documents-storage:8080/git-</p>
+        <p>update live submodule</p>
     </conbody>
 </concept>
