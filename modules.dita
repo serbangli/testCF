@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_jdh_r4t_gkc">
+    <title>modules</title>
+    <body>
+        <p><u>Read-only sub-modules</u></p>
+        <p><b>Live </b></p>
+        <p>Define sub-module as new project type </p>
+        <p>Add new Project / sub-module</p>
+        <p>Insert/delete/change
+            sub-modul<?oxy_comment_start author="Serban Gligor" timestamp="20260819T085131+0000" comment="ceva"?>e
+            in project fro<?oxy_comment_end?>m external/local sub-module</p>
+        <p>Extract folder as sub-module - create a new project and replace folder by sub-module</p>
+        <ul id="ul_jsw_dpt_gkc">
+            <li>Publication - no changes</li>
+            <li>Files - display sub-modules as folders</li>
+            <li>Changes/History - show add/change sub-module as new change</li>
+            <li>Validation - no changes</li>
+            <li>Search - refresh sub-modules and then search - maybe background task?</li>
+            <li>Translate - after update sub-modules start task</li>
+            <li>Projects tab - show sub-modules in a new tab</li>
+        </ul>
+        <p><b>Non-Live</b></p>
+        <p>Show update sub-modules button (if project do have ones) if at least one is changed </p>
+        <p><u>Read-Write sub-modules</u></p>
+        <p>Edits in sub-project - how to resolve diffs - who will commit? start a review task for
+            that? what about comments (actually edits)?</p>
+    </body>
+</topic>

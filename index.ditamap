@@ -2,6 +2,8 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>index</title>
+    <topicref href="modules.dita"/>
+    <topicref href="modulesen.dita"/>
     <topicref href="Concept.dita"/>
     <topicref href="submodule/indexSM.ditamap"/>
 </map>
