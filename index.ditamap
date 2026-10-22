@@ -3,7 +3,7 @@
 <map>
     <title>index</title>
     <topicref href="modules.dita"/>
-    <topicref href="modulesen.dita"/>
+    <topicref href="submodule/subFolder/conceptinsubfolder.dita"/>
     <topicref href="Concept.dita"/>
     <topicref href="submodule/indexSM.ditamap"/>
 </map>
