@@ -5,5 +5,5 @@
     <topicref href="modules.dita"/>
     <topicref href="submodule/subFolder/conceptinsubfolder.dita"/>
     <topicref href="Concept.dita"/>
-    <topicref href="submodule/indexSM.ditamap"/>
+    <topicref href="submodule/indexSM.ditamap" format="ditamap"/>
 </map>
