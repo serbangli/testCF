@@ -5,7 +5,8 @@
     <shortdesc></shortdesc>
     <conbody>
         <p>Ceva paragraf</p>
-        <p>Alt paragraf</p>
+        <p><?oxy_comment_start author="serban@sync.ro" timestamp="20261028T160828+0000" comment="khjjkl"?>Alt
+            paragraf<?oxy_comment_end?></p>
         <p>GIT Alt paragraf si</p>
 <p>2. GIT Alt paragraf - schimbat</p>
 <p>CF added si pentru update si switch branch din afaratgit </p>
