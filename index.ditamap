@@ -6,4 +6,7 @@
     <topicref href="submodule/subFolder/conceptinsubfolder.dita"/>
     <topicref href="Concept.dita"/>
     <topicref href="submodule/indexSM.ditamap" format="ditamap"/>
+  <topicref href="docart.xml" format="docbook">
+    <glossref keys=""/>
+  </topicref>
 </map>
